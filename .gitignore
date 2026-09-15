@@ -1,0 +1,14 @@
+# Private settings and generated data must stay outside this repository.
+/local/
+**/.claude/
+**/__pycache__/
+*.pyc
+*.log
+*.bak
+*.swp
+*~
+.env
+.env.*
+!*.example
+**/workspace-labels
+ml4w/.config/ml4w-hyprland-settings/hyprctl.json
